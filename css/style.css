@@ -10,7 +10,9 @@
 }
 
 
-/* 第三階層 */
+/* ---------
+   第三階層
+ -------- */
 .level3_container {
     padding: 12px;
 }
@@ -34,4 +36,8 @@
     padding: 8px 12px;
     font-size: 1.2rem;
     font-weight: bold;
+}
+
+.level3_section_item{
+    margin: 12px 12px 24px;
 }
